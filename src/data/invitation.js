@@ -54,7 +54,7 @@ export const invitation = {
     titleTop: "One night,",
     titleEm: "one horizon",
     intro:
-      "We meet at Dubai Marina Dock, board with time to spare, then cruise past the Palm toward the Burj Al Arab — dinner, swimming, and the city lights all in one evening. 40 places aboard, each one held by name.",
+      "We meet at Dubai Marina Dock, board with time to spare, then cruise past the Palm toward the Burj Al Arab — dinner, swimming, and the city lights all in one evening.",
     entries: [
       {
         term: "The Date",
@@ -123,7 +123,7 @@ export const invitation = {
     eyebrow: "Répondez s’il vous plaît",
     titleTop: "Kindly reply by",
     titleEm: "27 August 2026",
-    body: "There are 28 places aboard and they are held strictly by name. Confirm for yourself and one guest so the manifest may close in good time.",
+    body: "There are 25 places aboard and they are held strictly by name. Confirm for yourself and one guest so the manifest may close in good time.",
     primary: {
       label: "Accept with pleasure",
       href: "https://wa.me/971565703723?text=Hello%2C%20I%20am%20delighted%20to%20accept%20the%20invitation%20to%20Teresa%20Calitis%E2%80%99%2049th%20birthday%20celebration%20on%20Saturday%2C%205%20September%202026.%20I%20will%20be%20there%20at%20Dubai%20Marina%20Dock%20by%2017%3A30.%20Thank%20you%20for%20having%20me.",
