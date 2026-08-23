@@ -812,6 +812,11 @@ body::after {
 	color: var(--ink-muted);
 	max-width: 44ch;
 }
+
+.particular__note--bold {
+  font-weight: 500;
+}
+
 @media (min-width: 960px) {
 	.details__head {
 		grid-column: 1 / span 7;
